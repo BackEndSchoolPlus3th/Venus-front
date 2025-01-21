@@ -25,7 +25,9 @@ const pretendard = localFont({
       weight: '700',
       style: 'normal'
     }
-  ]
+  ],
+  display: 'swap',
+  variable: '--font-pretendard'
 })
 
 export const metadata: Metadata = {
@@ -36,7 +38,7 @@ export const metadata: Metadata = {
 const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html>
-      <body>{children}</body>
+      <body className={`${pretendard.variable} antialiased`}>{children}</body>
     </html>
   )
 }
