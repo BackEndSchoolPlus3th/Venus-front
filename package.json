@@ -6,10 +6,15 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "dev:local": "cross-env NODE_ENV=local node -r dotenv/config ./node_modules/.bin/next dev",
+    "dev:development": "cross-env NODE_ENV=development node -r dotenv/config ./node_modules/.bin/next dev",
+    "build:production": "cross-env NODE_ENV=production node -r dotenv/config ./node_modules/.bin/next build",
+    "start:production": "cross-env NODE_ENV=production node -r dotenv/config ./node_modules/.bin/next start"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
+    "@svgr/webpack": "^8.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.473.0",
@@ -25,6 +30,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.4.7",
     "eslint": "^9",
     "eslint-config-next": "15.1.5",
     "eslint-config-prettier": "^10.0.1",
