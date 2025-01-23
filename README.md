@@ -43,6 +43,50 @@
 <br>
 <br>
 
+## ⚙️ 서비스 아키텍처
+
+> 아키텍처 사진 들어갈 것것
+<div>
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <!-- Spring Security -->
+  <img src="https://img.shields.io/badge/Spring_Security-339933?style=flat-square&logo=SpringSecurity&logoColor=white"/>
+  
+</div>
+
+<div>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <!-- Redux -->
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/>
+</div>
+
+<div>
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+  <!-- GitHub Actions -->
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+</div>
+
+<div>
+  <!-- PM2 -->
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+  <!-- Redis -->
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</div>
+
+<br>
+<br>
+
 ## 👨‍⚖️ 기술적 의사결정
 
 <details>
@@ -284,57 +328,6 @@
 <br>
 <br>
 
-## 🕵️‍♂️ 트러블슈팅
-
-> 트러블슈팅 하나씩 채워 나갈 것것
-
-
-<br>
-<br>
-
-## ⚙️ 서비스 아키텍처
-
-> 아키텍처 사진 들어갈 것것
-<div>
-  <!-- Spring Boot -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <!-- Spring Security -->
-  <img src="https://img.shields.io/badge/Spring_Security-339933?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-  
-</div>
-
-<div>
-  <!-- React -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <!-- TypeScript -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <!-- Redux -->
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/>
-</div>
-
-<div>
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
-  <!-- GitHub Actions -->
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
-</div>
-
-<div>
-  <!-- PM2 -->
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
-  <!-- Redis -->
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-</div>
-
-<br>
-<br>
 
 ## 🗂 프로젝트 구조
 
@@ -362,6 +355,13 @@
     </ul>
   </div>
 </details>
+
+<br>
+<br>
+
+## 🕵️‍♂️ 트러블슈팅
+
+> 트러블슈팅 하나씩 채워 나갈 것것
 
 <br>
 <br>
